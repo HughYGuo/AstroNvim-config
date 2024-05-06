@@ -9,4 +9,12 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  --
+  --
+
+  {
+    "smoka7/hop.nvim",
+    version = "*",
+    opts = {},
+  },
 }
